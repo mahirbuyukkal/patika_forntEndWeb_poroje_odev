@@ -1,0 +1,36 @@
+body{
+    background-color: #96CEB4;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 200%;
+    font-family: 'Fjalla One', sans-serif;
+}
+nav ul li {
+    display: inline;
+    margin-left: 15px;
+    list-style-position: inside;
+}
+nav ul li a{
+    color: #291110;
+    font-weight: 900;
+    text-decoration: none;
+}
+.blue{
+    color: rgb(28, 160, 138);
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight:900;
+}
+.boyut{
+    width: 400px;
+}
+.fs{
+    font-size: 20px;
+    float: left;
+}

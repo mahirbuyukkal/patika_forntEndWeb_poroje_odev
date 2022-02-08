@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+nav{
+    width: 500px;
+    margin: 200px auto 0;
+}
+header{
+    background-color: rgb(224, 221, 221);
+    padding: 10px 0;
+}
+.width{
+    width:400px;
+}
+.btn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    padding: 5px 9px;
+}
+section{
+    margin: 0 auto;
+}
+article{
+    float: left;
+    background-color: rgb(110, 231, 191);
+    width: 33%;
+    height: 100px;
+    margin:  0 2px;
+}
+.clear{
+    clear: both;
+}

@@ -1,0 +1,27 @@
+/* genel düzenlemeler */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: beige;
+}
+/* navbar */
+nav{
+    background-color: rgb(56, 56, 56);
+    
+}
+.nav-li{
+    display: inline-block;
+    padding: 15px;
+}
+nav a {
+    color: #fff;
+}
